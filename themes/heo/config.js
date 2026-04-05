@@ -56,7 +56,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
@@ -86,7 +86,7 @@ const CONFIG = {
 
   HEO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  HEO_ARTICLE_NOT_BY_AI: false, // 显示非AI写作
+  HEO_ARTICLE_NOT_BY_AI: true, // 显示非AI写作
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
